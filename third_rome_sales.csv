@@ -1,0 +1,101 @@
+order_id,product_category,order_date,units_sold,region,revenue_usd
+1,Crypto Miners,2024-01-01,2,California,1670
+2,Solar Panels,2024-01-02,1,Florida,505
+3,Crypto Miners,2024-01-03,1,Illinois,1359
+4,Cameras,2024-01-04,3,Florida,841
+5,Drone Parts,2024-01-05,2,Florida,1821
+6,Radio Systems,2024-01-06,2,Texas,1619
+7,Solar Panels,2024-01-07,3,Illinois,1429
+8,Crypto Miners,2024-01-08,4,Illinois,1986
+9,Drone Parts,2024-01-09,4,Illinois,417
+10,Cameras,2024-01-10,4,Florida,353
+11,Cameras,2024-01-11,4,Texas,1213
+12,Cameras,2024-01-12,3,Illinois,1768
+13,Drone Parts,2024-01-13,4,Florida,1075
+14,Drone Parts,2024-01-14,1,Texas,1445
+15,Solar Panels,2024-01-15,2,Florida,338
+16,Crypto Miners,2024-01-16,1,California,1003
+17,Solar Panels,2024-01-17,3,Florida,1320
+18,Radio Systems,2024-01-18,3,California,1618
+19,Radio Systems,2024-01-19,2,Texas,893
+20,Cameras,2024-01-20,2,Florida,1461
+21,Cameras,2024-01-21,2,California,1719
+22,Radio Systems,2024-01-22,4,Illinois,922
+23,Solar Panels,2024-01-23,2,Florida,519
+24,Solar Panels,2024-01-24,2,Florida,1326
+25,Crypto Miners,2024-01-25,1,Texas,1817
+26,Drone Parts,2024-01-26,2,Texas,108
+27,Cameras,2024-01-27,1,Illinois,1557
+28,Cameras,2024-01-28,2,Florida,689
+29,Radio Systems,2024-01-29,1,California,745
+30,Cameras,2024-01-30,2,California,513
+31,Solar Panels,2024-01-31,4,Illinois,637
+32,Crypto Miners,2024-02-01,1,Texas,714
+33,Solar Panels,2024-02-02,4,Illinois,299
+34,Drone Parts,2024-02-03,4,Florida,1396
+35,Drone Parts,2024-02-04,4,Florida,1547
+36,Solar Panels,2024-02-05,2,Florida,1508
+37,Radio Systems,2024-02-06,1,Illinois,352
+38,Drone Parts,2024-02-07,1,Illinois,1717
+39,Solar Panels,2024-02-08,1,Illinois,1587
+40,Radio Systems,2024-02-09,4,Florida,1051
+41,Solar Panels,2024-02-10,3,California,925
+42,Cameras,2024-02-11,3,Florida,541
+43,Radio Systems,2024-02-12,2,Illinois,1971
+44,Drone Parts,2024-02-13,4,Illinois,156
+45,Crypto Miners,2024-02-14,2,California,1866
+46,Cameras,2024-02-15,3,Texas,606
+47,Crypto Miners,2024-02-16,4,Florida,766
+48,Crypto Miners,2024-02-17,1,California,526
+49,Cameras,2024-02-18,2,Illinois,999
+50,Drone Parts,2024-02-19,1,California,1706
+51,Crypto Miners,2024-02-20,2,Florida,1948
+52,Radio Systems,2024-02-21,4,Texas,1960
+53,Drone Parts,2024-02-22,2,Florida,1568
+54,Cameras,2024-02-23,1,Illinois,907
+55,Drone Parts,2024-02-24,2,California,1063
+56,Radio Systems,2024-02-25,4,California,1747
+57,Radio Systems,2024-02-26,4,California,190
+58,Solar Panels,2024-02-27,4,Texas,501
+59,Radio Systems,2024-02-28,4,Florida,627
+60,Cameras,2024-02-29,2,Illinois,1894
+61,Drone Parts,2024-03-01,4,Florida,158
+62,Radio Systems,2024-03-02,3,Florida,834
+63,Solar Panels,2024-03-03,1,Illinois,762
+64,Drone Parts,2024-03-04,4,Illinois,569
+65,Radio Systems,2024-03-05,1,Texas,1809
+66,Radio Systems,2024-03-06,3,Illinois,601
+67,Cameras,2024-03-07,2,Illinois,1995
+68,Radio Systems,2024-03-08,1,California,1553
+69,Radio Systems,2024-03-09,1,California,492
+70,Radio Systems,2024-03-10,2,Texas,390
+71,Solar Panels,2024-03-11,1,California,1159
+72,Crypto Miners,2024-03-12,4,Illinois,1558
+73,Solar Panels,2024-03-13,4,Illinois,165
+74,Solar Panels,2024-03-14,4,California,609
+75,Crypto Miners,2024-03-15,2,Florida,534
+76,Solar Panels,2024-03-16,3,Illinois,1905
+77,Drone Parts,2024-03-17,2,Illinois,1987
+78,Cameras,2024-03-18,4,Texas,1576
+79,Crypto Miners,2024-03-19,4,Florida,1106
+80,Radio Systems,2024-03-20,1,Illinois,1039
+81,Crypto Miners,2024-03-21,2,California,683
+82,Drone Parts,2024-03-22,3,Florida,1808
+83,Solar Panels,2024-03-23,1,Illinois,1667
+84,Radio Systems,2024-03-24,4,Florida,244
+85,Drone Parts,2024-03-25,1,Illinois,115
+86,Radio Systems,2024-03-26,3,California,1424
+87,Crypto Miners,2024-03-27,4,Texas,1322
+88,Solar Panels,2024-03-28,1,Florida,917
+89,Solar Panels,2024-03-29,3,Texas,524
+90,Radio Systems,2024-03-30,1,Texas,1359
+91,Cameras,2024-03-31,1,California,1003
+92,Cameras,2024-04-01,1,Texas,1065
+93,Crypto Miners,2024-04-02,1,Florida,1376
+94,Crypto Miners,2024-04-03,4,Florida,1538
+95,Crypto Miners,2024-04-04,2,Florida,484
+96,Cameras,2024-04-05,1,Texas,286
+97,Drone Parts,2024-04-06,4,Illinois,1843
+98,Crypto Miners,2024-04-07,1,Florida,720
+99,Crypto Miners,2024-04-08,4,Texas,1160
+100,Drone Parts,2024-04-09,1,Texas,1904
